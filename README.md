@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Danilo
+- 👀 I’m interested in blocckchain, Crypto and DAOs.
+- 🌱 I’m currently learning about DAOs governance and inicializing in code.
+- 💞️ I’m looking to collaborate with ideas of improvement from DAOs.
+- 📫 You can reach me on twitter ho danilolb or on other medias as danilolborges.
